@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gateway.GatewaymicroserviceApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-23T11:43:57" hostname="DESKTOP-3MG55RL" time="1.208">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.gateway.GatewaymicroserviceApplicationTests" time="1.208"/>
+  <system-out><![CDATA[17:13:54.360 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.gateway.GatewaymicroserviceApplicationTests]: GatewaymicroserviceApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+17:13:54.537 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.gateway.GatewaymicroserviceApplication for test class com.gateway.GatewaymicroserviceApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.4)
+
+2024-10-23T17:13:55.240+05:30  INFO 2992 --- [gatewaymicroservice] [    Test worker] c.g.GatewaymicroserviceApplicationTests  : Starting GatewaymicroserviceApplicationTests using Java 17.0.8 with PID 2992 (started by hp in C:\Users\hp\Downloads\gateway\gateway)
+2024-10-23T17:13:55.243+05:30  INFO 2992 --- [gatewaymicroservice] [    Test worker] c.g.GatewaymicroserviceApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2024-10-23T17:13:56.629+05:30  INFO 2992 --- [gatewaymicroservice] [    Test worker] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with UserDetailsService bean with name myUserDetailsService
+2024-10-23T17:13:57.506+05:30  INFO 2992 --- [gatewaymicroservice] [    Test worker] c.g.GatewaymicroserviceApplicationTests  : Started GatewaymicroserviceApplicationTests in 2.66 seconds (process running for 4.586)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
